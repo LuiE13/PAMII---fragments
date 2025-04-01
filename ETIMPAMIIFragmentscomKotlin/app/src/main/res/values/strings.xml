@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ETIM PAMII Fragments com Kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">primeiro né pai</string>
+    <string name="hello_blank_fragment2">segundo né pai</string>
+    <string name="hello_blank_fragment3">terceiro né pai</string>
+</resources>
