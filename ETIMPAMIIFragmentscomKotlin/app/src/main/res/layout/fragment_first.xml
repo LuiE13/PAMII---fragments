@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/amarilo"
+    android:orientation="vertical"
+    android:background="#BEF6EB"
     tools:context=".FirstFragment">
 
     <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="92dp"
+        android:src="@drawable/rename" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:textColor="#0099ff"
         android:textSize="36sp"
         android:textStyle="bold"
+        android:layout_marginTop="150dp"
         android:gravity="center_horizontal"
         android:text="@string/hello_blank_fragment1" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/simonecorreto"
+        android:layout_marginTop="250dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#0099ff"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:layout_marginTop="550dp"
+        android:gravity="center_horizontal"
+        android:text="simon pai" />
+
+
 
 </FrameLayout>

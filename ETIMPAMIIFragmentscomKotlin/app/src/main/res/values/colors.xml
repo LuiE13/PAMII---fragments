@@ -3,6 +3,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="amarilo">#FBEB6A</color>
-    <color name="azulis">#6AFBEC</color>
+    <color name="azulis">#0099ff</color>
+    <color name="verdas">#009900</color>
+    <color name="vermelhas">#ff3300</color>
     <color name="roxalas">#FD48FF</color>
 </resources>
